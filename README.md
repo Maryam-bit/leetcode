@@ -22,10 +22,8 @@ Here's a list of the problems I have solved so far:
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 1 | [Two Sum](./problem-1-two-sum) | [Python](./problem-1-two-sum/solution.py) |
-| 2 | [Add Two Numbers](./problem-2-add-two-numbers) | [Python](./problem-2-add-two-numbers/solution.py) |
-| 3 | [Longest Substring Without Repeating Characters](./problem-3-longest-substring-without-repeating-characters) | [Python](./problem-3-longest-substring-without-repeating-characters/solution.py) |
-| 4 | [Median of Two Sorted Arrays](./problem-4-median-of-two-sorted-arrays) | [Python](./problem-4-median-of-two-sorted-arrays/solution.py) |
+| 1 | [Two Sum](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [JavaScript](./easy/subtractTheProductAndSum.js) |
+
 
 ## About Me
 
