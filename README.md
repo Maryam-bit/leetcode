@@ -25,6 +25,7 @@ Here's a list of the problems I have solved so far:
 | 1 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [JavaScript](./easy/subtractTheProductAndSum.js) |
 | 2 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [JavaScript](./easy/mostWordsFound.js) |
 | 3 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [JavaScript](./easy/smallestEvenMultiple.js) |
+| 3 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [JavaScript](./easy/numberOfGoodPairs.js) |
 
 
 ## About Me
