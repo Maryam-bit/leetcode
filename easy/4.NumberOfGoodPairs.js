@@ -13,6 +13,7 @@ Output: 4
 There are 4 good pairs (0,3), (0,4), (3,4), (2,5) 0-indexed.
 */
 
+
 var numIdenticalPairs = function(nums) {
     let count = 0;
     for(i=0; i<=nums.length-1; i++) {
