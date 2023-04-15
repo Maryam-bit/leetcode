@@ -22,7 +22,7 @@ Here's a list of the problems I have solved so far:
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 1 | [Two Sum](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [JavaScript](./easy/subtractTheProductAndSum.js) |
+| 1 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [JavaScript](./easy/subtractTheProductAndSum.js) |
 
 
 ## About Me
