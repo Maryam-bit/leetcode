@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="50%" alt="LeetCode Logo"/>
+  <img src="https://leetcode.com/static/images/LeetCode_logo.png" width="30%" alt="LeetCode Logo"/>
 </p>
 
 <h1 align="center">LeetCode Solutions</h1>
