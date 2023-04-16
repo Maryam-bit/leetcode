@@ -37,6 +37,7 @@ Here's a list of the problems I have solved so far:
 | 13 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./easy/13.SearchInsertPosition.js) | Easy |
 | 14 | [Find First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./easy/14.FirstBadVersion.js) | Easy |
 | 15 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./easy/15.BinarySearch.js) | Easy |
+| 16 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [JavaScript](./easy/16.GoalParserInterpretation.js) | Easy |
 
 
 ## About Me
