@@ -38,6 +38,7 @@ Here's a list of the problems I have solved so far:
 | 14 | [Find First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./easy/14.FirstBadVersion.js) | Easy |
 | 15 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./easy/15.BinarySearch.js) | Easy |
 | 16 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [JavaScript](./easy/16.GoalParserInterpretation.js) | Easy |
+| 17 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](./easy/17.SmallerNumbersThanCurrent.js) | Easy |
 
 
 ## About Me
