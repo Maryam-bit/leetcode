@@ -39,6 +39,7 @@ Here's a list of the problems I have solved so far:
 | 15 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./easy/15.BinarySearch.js) | Easy |
 | 16 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [JavaScript](./easy/16.GoalParserInterpretation.js) | Easy |
 | 17 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](./easy/17.SmallerNumbersThanCurrent.js) | Easy |
+| 18 | [Create Target Array in a Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [JavaScript](./easy/18.CreateTargetArrayInOrder.js) | Easy |
 
 
 ## About Me
