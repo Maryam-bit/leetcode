@@ -41,6 +41,7 @@ Here's a list of the problems I have solved so far:
 | 17 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](./easy/17.SmallerNumbersThanCurrent.js) | Easy |
 | 18 | [Create Target Array in a Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [JavaScript](./easy/18.CreateTargetArrayInOrder.js) | Easy |
 | 19 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [JavaScript](./easy/19.DecompressRLElist.js) | Easy |
+| 20 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [JavaScript](./easy/20.NumberOfStepsReductToZero.js) | Easy |
 
 
 ## About Me
