@@ -43,7 +43,8 @@ Here's a list of the problems I have solved so far:
 | 19 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [JavaScript](./easy/19.DecompressRLElist.js) | Easy |
 | 20 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [JavaScript](./easy/20.NumberOfStepsReductToZero.js) | Easy |
 | 21 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [JavaScript](./easy/21.ShuffleString.js) | Easy |
-| 21 | [Count The Digits that Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [JavaScript](./easy/22.CountDigitsThatDivideANumber.js) | Easy |
+| 22 | [Count The Digits that Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [JavaScript](./easy/22.CountDigitsThatDivideANumber.js) | Easy |
+| 23 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [JavaScript](./easy/23.DifferenceOfElementAndDigitSum.js) | Easy |
 
 
 ## About Me
