@@ -45,6 +45,7 @@ Here's a list of the problems I have solved so far:
 | 21 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [JavaScript](./easy/21.ShuffleString.js) | Easy |
 | 22 | [Count The Digits that Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [JavaScript](./easy/22.CountDigitsThatDivideANumber.js) | Easy |
 | 23 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [JavaScript](./easy/23.DifferenceOfElementAndDigitSum.js) | Easy |
+| 24 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [JavaScript](./easy/24.XorOperationInArray.js) | Easy |
 
 
 ## About Me
