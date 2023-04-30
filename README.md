@@ -48,6 +48,7 @@ Here's a list of the problems I have solved so far:
 | 24 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [JavaScript](./easy/24.XorOperationInArray.js) | Easy |
 | 25 | [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [JavaScript](./easy/25.SortSentence.js) | Easy |
 | 26 | [Check If Two Arrays are Equal](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [JavaScript](./easy/26.ArrayStringsAreEqual.js) | Easy |
+| 27 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./easy/27.ReverseString.js) | Easy |
 
 
 ## About Me
