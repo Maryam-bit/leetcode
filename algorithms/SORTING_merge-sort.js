@@ -4,9 +4,9 @@ function divide(array, si, ei) {
         return;
     }
 
-    const mid = si + (ei - si) / 2;
+    let mid = Math.floor(si + (ei - si) / 2);
     divide(array, si, mid);
-    divide(array, mid+1, si);
+    divide(array, mid+1, ei);
     conquer(array, si, mid, ei)
 }
 
@@ -19,9 +19,7 @@ function conquer(array, si, mid, ei) {
     while(idx1<=mid && idx2<=ei) {
         if(array[idx1] <= array[idx2]) {
             merged[x++] = array[idx1++];
-        }
-
-        if(array[idx2] <= array[idx1]) {
+        } else {
             merged[x++] = array[idx2++]
         }
     }
@@ -34,7 +32,9 @@ function conquer(array, si, mid, ei) {
         merged[x++] = array[idx2++];
     }
 
-    array = [...merged]
+    for(let i = 0, j = si; i < merged.length; i++, j++) {
+        array[j] = merged[i]
+    }
 }
 
 
