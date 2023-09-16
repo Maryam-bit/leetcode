@@ -15,28 +15,28 @@ Explanation: Your function should return k = 5, with the first five elements of 
 It does not matter what you leave beyond the returned k (hence they are underscores)
 */
 
+// Solution 1
+var removeDuplicates = function(nums) {
+    let existingValue = nums[0];
+    let appearance = 1; 
+    for(i=1; i<=nums.length-1; i++) {
+        existingValue
+        appearance
+        if(existingValue == nums[i]) {
+            if(appearance >= 2) {
+                nums.splice(i,1)
+                i--
+            }
+            appearance++;
+        }
+        else {
+            existingValue = nums[i];
+            appearance = 1
+        }
+    }
+}
 
-// var removeDuplicates = function(nums) {
-//     let existingValue = nums[0];
-//     let appearance = 1; 
-//     for(i=1; i<=nums.length-1; i++) {
-//         existingValue
-//         appearance
-//         if(existingValue == nums[i]) {
-//             if(appearance >= 2) {
-//                 nums.splice(i,1)
-//                 i--
-//             }
-//             appearance++;
-//         }
-//         else {
-//             existingValue = nums[i];
-//             appearance = 1
-//         }
-//     }
-// }
-
-
+// Solution 2
 var removeDuplicates = function(nums) {
     let j = 2;
     for(i=1; i<=nums.length-1; i++) {
