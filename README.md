@@ -52,10 +52,11 @@ Here's a list of the problems I have solved so far:
 | 28 | [Merge Sort Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/28.MergeSortArray.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 29 | [Remove ELement](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/29.RemoveElement.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 30 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/30.RemoveDuplicates.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
-| 31 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/2.RemoveDuplicatesII.js) | ![](https://img.shields.io/badge/Easy-ffc04a) |
+| 31 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/2.RemoveDuplicatesII.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 32 | [Majority Element](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/31.MajorityElement.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
-| 33 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/1.RotateArray.js) | ![](https://img.shields.io/badge/Easy-ffc04a) |
+| 33 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/1.RotateArray.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 34 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/32.BestTimeToBuyAndSell.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 35 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/3.BestTimeToBuyAndSell.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 
 ## About Me
