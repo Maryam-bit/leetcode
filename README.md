@@ -49,6 +49,13 @@ Here's a list of the problems I have solved so far:
 | 25 | [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [JavaScript](./easy/25.SortSentence.js) | Easy |
 | 26 | [Check If Two Arrays are Equal](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [JavaScript](./easy/26.ArrayStringsAreEqual.js) | Easy |
 | 27 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./easy/27.ReverseString.js) | Easy |
+| 28 | [Merge Sort Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/28.MergeSortArray.js) | Easy |
+| 29 | [Remove ELement](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/29.RemoveElement.js) | Easy |
+| 30 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/30.RemoveDuplicates.js) | Easy |
+| 31 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/2.RemoveDuplicatesII.js) | Medium |
+| 32 | [Majority Element](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/31.MajorityElement.js) | Easy |
+| 33 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/1.RotateArray.js) | Medium |
+| 34 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/32.BestTimeToBuyAndSell.js) | Easy |
 
 
 ## About Me
