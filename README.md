@@ -22,40 +22,40 @@ Here's a list of the problems I have solved so far:
 
 | # | Problem | Solution | Difficulty |
 |---|---------|----------| ---------- |
-| 1 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [JavaScript](./easy/1.SubtractTheProductAndSum.js) | Easy |
-| 2 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [JavaScript](./easy/2.MostWordsFound.js) | Easy |
-| 3 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [JavaScript](./easy/3.SmallestEvenMultiple.js) | Easy |
-| 4 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [JavaScript](./easy/4.NumberOfGoodPairs.js) | Easy |
-| 5 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [JavaScript](./easy/5.AddTwoIntegers.js) | Easy |
-| 6 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [JavaScript](./easy/6.LeftRightSumDiference.js) | Easy |
-| 7 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [JavaScript](./easy/7.FinalValueAfterOperations.js) | Easy |
-| 8 | [Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/) | [JavaScript](./easy/8.ConvertTemperature.js) | Easy |
-| 9 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [JavaScript](./easy/9.BuildArrayFromPermutation.js) | Easy |
-| 10 | [Concaatenation Of Array](https://leetcode.com/problems/concatenation-of-array/) | [JavaScript](./easy/10.ConcatenationOfArray.js) | Easy |
-| 11 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [TypeScript](./easy/11.ReverseWordsInString.ts) | Easy |
-| 12 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [TypeScript](./easy/12.SortedSquares.ts) | Easy |
-| 13 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./easy/13.SearchInsertPosition.js) | Easy |
-| 14 | [Find First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./easy/14.FirstBadVersion.js) | Easy |
-| 15 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./easy/15.BinarySearch.js) | Easy |
-| 16 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [JavaScript](./easy/16.GoalParserInterpretation.js) | Easy |
-| 17 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](./easy/17.SmallerNumbersThanCurrent.js) | Easy |
-| 18 | [Create Target Array in a Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [JavaScript](./easy/18.CreateTargetArrayInOrder.js) | Easy |
-| 19 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [JavaScript](./easy/19.DecompressRLElist.js) | Easy |
-| 20 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [JavaScript](./easy/20.NumberOfStepsReductToZero.js) | Easy |
-| 21 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [JavaScript](./easy/21.ShuffleString.js) | Easy |
-| 22 | [Count The Digits that Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [JavaScript](./easy/22.CountDigitsThatDivideANumber.js) | Easy |
-| 23 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [JavaScript](./easy/23.DifferenceOfElementAndDigitSum.js) | Easy |
-| 24 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [JavaScript](./easy/24.XorOperationInArray.js) | Easy |
-| 25 | [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [JavaScript](./easy/25.SortSentence.js) | Easy |
-| 26 | [Check If Two Arrays are Equal](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [JavaScript](./easy/26.ArrayStringsAreEqual.js) | Easy |
-| 27 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./easy/27.ReverseString.js) | Easy |
-| 28 | [Merge Sort Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/28.MergeSortArray.js) | Easy |
-| 29 | [Remove ELement](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/29.RemoveElement.js) | Easy |
-| 30 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/30.RemoveDuplicates.js) | Easy |
-| 31 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/2.RemoveDuplicatesII.js) | Medium |
-| 32 | [Majority Element](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/31.MajorityElement.js) | Easy |
-| 33 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/1.RotateArray.js) | Medium |
-| 34 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/32.BestTimeToBuyAndSell.js) | Easy |
+| 1 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [JavaScript](./easy/1.SubtractTheProductAndSum.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 2 | [Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/) | [JavaScript](./easy/2.MostWordsFound.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 3 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [JavaScript](./easy/3.SmallestEvenMultiple.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 4 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [JavaScript](./easy/4.NumberOfGoodPairs.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 5 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | [JavaScript](./easy/5.AddTwoIntegers.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 6 | [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) | [JavaScript](./easy/6.LeftRightSumDiference.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 7 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/) | [JavaScript](./easy/7.FinalValueAfterOperations.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 8 | [Convert The Temperature](https://leetcode.com/problems/convert-the-temperature/) | [JavaScript](./easy/8.ConvertTemperature.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 9 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [JavaScript](./easy/9.BuildArrayFromPermutation.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 10 | [Concaatenation Of Array](https://leetcode.com/problems/concatenation-of-array/) | [JavaScript](./easy/10.ConcatenationOfArray.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 11 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [TypeScript](./easy/11.ReverseWordsInString.ts) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 12 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [TypeScript](./easy/12.SortedSquares.ts) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 13 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [JavaScript](./easy/13.SearchInsertPosition.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 14 | [Find First Bad Version](https://leetcode.com/problems/first-bad-version/) | [JavaScript](./easy/14.FirstBadVersion.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 15 | [Binary Search](https://leetcode.com/problems/binary-search/) | [JavaScript](./easy/15.BinarySearch.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 16 | [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [JavaScript](./easy/16.GoalParserInterpretation.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 17 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [JavaScript](./easy/17.SmallerNumbersThanCurrent.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 18 | [Create Target Array in a Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [JavaScript](./easy/18.CreateTargetArrayInOrder.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 19 | [Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [JavaScript](./easy/19.DecompressRLElist.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 20 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [JavaScript](./easy/20.NumberOfStepsReductToZero.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 21 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | [JavaScript](./easy/21.ShuffleString.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 22 | [Count The Digits that Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [JavaScript](./easy/22.CountDigitsThatDivideANumber.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 23 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [JavaScript](./easy/23.DifferenceOfElementAndDigitSum.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 24 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [JavaScript](./easy/24.XorOperationInArray.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 25 | [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence/) | [JavaScript](./easy/25.SortSentence.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 26 | [Check If Two Arrays are Equal](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [JavaScript](./easy/26.ArrayStringsAreEqual.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 27 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [JavaScript](./easy/27.ReverseString.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 28 | [Merge Sort Array](https://leetcode.com/problems/merge-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/28.MergeSortArray.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 29 | [Remove ELement](https://leetcode.com/problems/remove-element/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/29.RemoveElement.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 30 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/30.RemoveDuplicates.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 31 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/2.RemoveDuplicatesII.js) | ![](https://img.shields.io/badge/Medium-informational?style=flat&color=yellow) |
+| 32 | [Majority Element](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/31.MajorityElement.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
+| 33 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/1.RotateArray.js) | ![](https://img.shields.io/badge/Medium-informational?style=flat&color=yellow) |
+| 34 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/32.BestTimeToBuyAndSell.js) | ![](https://img.shields.io/badge/Easy-informational?style=flat&color=green) |
 
 
 ## About Me
