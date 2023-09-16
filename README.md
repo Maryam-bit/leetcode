@@ -57,6 +57,7 @@ Here's a list of the problems I have solved so far:
 | 33 | [Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/1.RotateArray.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 34 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/32.BestTimeToBuyAndSell.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 35 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/3.BestTimeToBuyAndSell.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 36 | [Jump Game](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/4.JumpGame.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 
 ## About Me
