@@ -60,6 +60,7 @@ Here's a list of the problems I have solved so far:
 | 36 | [Jump Game](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/4.JumpGame.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 37 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/33.RomanToInteger.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 37 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/34.LenghOfLastWord.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 37 | [Length of Last Word](https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/35.LongestCommonPrefix.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 
 
 ## About Me
