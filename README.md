@@ -61,6 +61,7 @@ Here's a list of the problems I have solved so far:
 | 37 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/33.RomanToInteger.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 38 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/34.LenghOfLastWord.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 39 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/35.LongestCommonPrefix.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 40 | [Index of First Occurance in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/36.IndexOfFirstOccurance.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 
 
 ## About Me
