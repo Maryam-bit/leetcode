@@ -32,15 +32,15 @@ var canCompleteCircuit = function(gas, cost) {
       totalConsumed += gas[i] - cost[i];
   
       if(tank < 0) {
-        start++;
+        start = i+1;
         tank = 0;
       }
     }
     return totalConsumed >= 0 ? start : -1;
   }
   
-  const gas = [1,2,3,4,5];
-  const cost = [3,4,5,1,2];
+  const gas = [5,8,2,8];
+  const cost = [6,5,6,6];
   
   const index = canCompleteCircuit(gas, cost);
-  console.log(index);
+  console.log(index); // 3
