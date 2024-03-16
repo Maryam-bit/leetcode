@@ -64,6 +64,7 @@ Here's a list of the problems I have solved so far:
 | 40 | [Index of First Occurance in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./easy/36.IndexOfFirstOccurance.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 41 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/5.JumpGame.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 42 | [Gas Station](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/6.GasStation.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 43 | [Candy](https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hard/1.Candy.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
 
 
 ## About Me
