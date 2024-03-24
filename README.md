@@ -65,7 +65,7 @@ Here's a list of the problems I have solved so far:
 | 41 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/5.JumpGame.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 42 | [Gas Station](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/6.GasStation.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 43 | [Candy](https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hard/1.Candy.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
-| 44 | [Gas Station](https://leetcode.com/problems/integer-to-roman/description/) | [JavaScript](./medium/12.IntegerToRoman.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 44 | [Integer To Roman](https://leetcode.com/problems/integer-to-roman/description/) | [JavaScript](./medium/12.IntegerToRoman.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 
 ## About Me
