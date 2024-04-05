@@ -36,10 +36,33 @@ var hIndex = function(citations) {
     return hIndex;
 };
 
-const citations = [3,0,6,1,5]
+
+// const citations = [3,0,6,1,5]
 // const citations = [1]
 // const citations = [0]
 // const citations = [100]
-// const citations = [1, 3, 1]
-
+const citations = [1, 3, 1]
 console.log(hIndex(citations))
+
+
+// ============= Another solution ==============
+// const hIndex = (citations) => {
+//     citations.sort((a, b) => b - a);
+//     let i = 0;
+//     while (citations[i] > i) i++;
+//     return i;
+// };
+
+// ============= Another solution ==============
+// var hIndex = function(citations) {
+//     let n = citations.length;
+//     let ans = 0;
+
+//     citations.sort((a, b) => a - b);
+
+//     for (let i = 0; i < n; i++) {
+//         ans = Math.max(ans, Math.min(citations[i], n - i));
+//     }
+
+//     return ans;
+// };
