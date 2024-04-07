@@ -68,6 +68,7 @@ Here's a list of the problems I have solved so far:
 | 44 | [Integer To Roman](https://leetcode.com/problems/integer-to-roman/description/) | [JavaScript](./medium/12.IntegerToRoman.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 45 | [Text Justification](https://leetcode.com/problems/text-justification/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hard/2.TextJustification.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
 | 46 | [H-index](https://leetcode.com/problems/h-index/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/8.HIndex.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 47 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hard/3.TrappingRainWater.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
 
 
 ## About Me
