@@ -72,7 +72,7 @@ Here's a list of the problems I have solved so far:
 | 48 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/9.ReverseWordsInString.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 49 | [Zigzag conversion](https://leetcode.com/problems/zigzag-conversion/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/10.ZigzagConversion.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 50 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/11.RandomizedSet.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 51 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/1.twoSum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 51 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/1.TwoSum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 ## About Me
 
