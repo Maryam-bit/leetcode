@@ -74,6 +74,7 @@ Here's a list of the problems I have solved so far:
 | 50 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/11.RandomizedSet.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 51 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/1.TwoSum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 52 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/3.ValidPalindrome.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 53 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/4.IsSubsequence.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 
 ## About Me
 
