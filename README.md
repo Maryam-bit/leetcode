@@ -77,6 +77,7 @@ Here's a list of the problems I have solved so far:
 | 53 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/4.IsSubsequence.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 54 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/5.ContainerWithMostWater.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 55 | [3Sum](https://leetcode.com/problems/3sum/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/2.ThreeSum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 56 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./slidingWindow/1.MinSubArrayLen.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 ## About Me
 
