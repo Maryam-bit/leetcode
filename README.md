@@ -79,6 +79,8 @@ Here's a list of the problems I have solved so far:
 | 55 | [3Sum](https://leetcode.com/problems/3sum/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/2.ThreeSum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 56 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./slidingWindow/1.MinSubArrayLen.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 57 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./slidingWindow/2.LengthOfLongestSubString.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 58 | [Minimum Substring Window](https://leetcode.com/problems/minimum-window-substring/description/) | [JavaScript](./slidingWindow/3.MinimumSubstringWindow.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
+
 
 ## About Me
 
