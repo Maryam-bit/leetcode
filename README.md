@@ -81,6 +81,8 @@ Here's a list of the problems I have solved so far:
 | 57 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./slidingWindow/2.LengthOfLongestSubString.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 58 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [JavaScript](./slidingWindow/3.MinimumWindowSubString.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
 | 59 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/1.ValidSudoku.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 60 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/2.SpiralMatrix.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 61 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/3.3.RotateImage.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 
 ## About Me
