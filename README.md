@@ -84,7 +84,7 @@ Here's a list of the problems I have solved so far:
 | 60 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/2.SpiralMatrix.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 61 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/3.RotateImage.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 62 | [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/4.SetMatrixZeros.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 63 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hashmap/1.RansomNote.js) | ![]([https://img.shields.io/badge/Medium-ffc04a](https://img.shields.io/badge/Easy-2EA043)) |
+| 63 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hashmap/1.RansomNote.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 
 
 ## About Me
