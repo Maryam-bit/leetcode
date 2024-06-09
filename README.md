@@ -20,6 +20,7 @@ Feel free to browse the solutions and use them as a reference for your own LeetC
 
 Here's a list of the problems I have solved so far:
 
+## Arrays & Strings 
 | # | Problem | Solution | Difficulty |
 |---|---------|----------| ---------- |
 | 1 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/description/) | [JavaScript](./easy/1.SubtractTheProductAndSum.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
@@ -72,19 +73,36 @@ Here's a list of the problems I have solved so far:
 | 48 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/9.ReverseWordsInString.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 49 | [Zigzag conversion](https://leetcode.com/problems/zigzag-conversion/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/10.ZigzagConversion.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 50 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/11.RandomizedSet.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 51 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/1.TwoSum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 52 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/3.ValidPalindrome.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 53 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/4.IsSubsequence.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
-| 54 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/5.ContainerWithMostWater.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 55 | [3Sum](https://leetcode.com/problems/3sum/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/2.ThreeSum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 56 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./slidingWindow/1.MinSubArrayLen.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 57 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./slidingWindow/2.LengthOfLongestSubString.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 58 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [JavaScript](./slidingWindow/3.MinimumWindowSubString.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
-| 59 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/1.ValidSudoku.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 60 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/2.SpiralMatrix.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 61 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/3.RotateImage.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 62 | [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/4.SetMatrixZeros.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
-| 63 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hashmap/1.RansomNote.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+
+## Two Pointers
+| # | Problem | Solution | Difficulty |
+|---|---------|----------| ---------- |
+| 1 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/1.TwoSum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 2 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/3.ValidPalindrome.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 3 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/4.IsSubsequence.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 4 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/5.ContainerWithMostWater.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 5 | [3Sum](https://leetcode.com/problems/3sum/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/2.ThreeSum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+
+## Sliding Window
+| # | Problem | Solution | Difficulty |
+|---|---------|----------| ---------- |
+| 1 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./slidingWindow/1.MinSubArrayLen.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./slidingWindow/2.LengthOfLongestSubString.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 3 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [JavaScript](./slidingWindow/3.MinimumWindowSubString.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
+
+## Matrix
+| # | Problem | Solution | Difficulty |
+|---|---------|----------| ---------- |
+| 1 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/1.ValidSudoku.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 2 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/2.SpiralMatrix.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 3 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/3.RotateImage.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 4 | [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/4.SetMatrixZeros.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 4 | [Game of Life](https://leetcode.com/problems/game-of-life/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/5.GameOfLife.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+
+## Hashmap
+| # | Problem | Solution | Difficulty |
+|---|---------|----------| ---------- |
+| 1 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hashmap/1.RansomNote.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 
 
 ## About Me
