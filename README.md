@@ -75,6 +75,8 @@ Here's a list of the problems I have solved so far:
 | 50 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./medium/11.RandomizedSet.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 ## Two Pointers
+| # | Problem | Solution | Difficulty |
+|---|---------|----------| ---------- |
 | 1 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/1.TwoSum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 2 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/3.ValidPalindrome.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 3 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/4.IsSubsequence.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
@@ -82,11 +84,15 @@ Here's a list of the problems I have solved so far:
 | 5 | [3Sum](https://leetcode.com/problems/3sum/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./twoPointers/2.ThreeSum.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 ## Sliding Window
+| # | Problem | Solution | Difficulty |
+|---|---------|----------| ---------- |
 | 1 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./slidingWindow/1.MinSubArrayLen.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 2 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./slidingWindow/2.LengthOfLongestSubString.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 3 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [JavaScript](./slidingWindow/3.MinimumWindowSubString.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
 
 ## Matrix
+| # | Problem | Solution | Difficulty |
+|---|---------|----------| ---------- |
 | 1 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/1.ValidSudoku.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 2 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/2.SpiralMatrix.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 3 | [Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/3.RotateImage.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
@@ -94,6 +100,8 @@ Here's a list of the problems I have solved so far:
 | 4 | [Game of Life](https://leetcode.com/problems/game-of-life/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./matrix/5.GameOfLife.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 ## Hashmap
+| # | Problem | Solution | Difficulty |
+|---|---------|----------| ---------- |
 | 1 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hashmap/1.RansomNote.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 
 
