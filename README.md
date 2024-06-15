@@ -105,6 +105,7 @@ Here's a list of the problems I have solved so far:
 | 1 | [Ransom Note](https://leetcode.com/problems/ransom-note/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hashmap/1.RansomNote.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 2 | [ Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hashmap/2.IsIsomorphic.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 3 | [Word Pattern](https://leetcode.com/problems/word-pattern/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hashmap/3.WordPattern.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 4 | [Is Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hashmap/4.IsAnagram.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 
 
 ## About Me
