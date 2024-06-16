@@ -26,6 +26,7 @@ Input: n = 2
 Output: false
 */
 
+// Solution 1
 var isHappy = function(n) {
     const sadNumers = [2, 3, 4, 5, 6, 8, 9];
     let total = 0;
@@ -43,3 +44,27 @@ var isHappy = function(n) {
        return isHappy(total)
     }
 };
+
+// Solution 2
+var isHappy = function (n) {
+    let seen = new Set();
+    let number = n.toString();
+
+    while(!seen.has(number)) {
+        let total = 0;
+        
+        for(let i = 0; i <= number.length - 1; i++) {
+            total += Math.pow(parseFloat(number[i]), 2);
+        }
+
+        if(total == 1) return true;
+
+        seen.add(number);
+
+        number = total.toString();
+    }
+    return false
+}
+
+console.log(isHappy(19))
+console.log(isHappy(2))
