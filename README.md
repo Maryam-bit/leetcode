@@ -109,6 +109,7 @@ Here's a list of the problems I have solved so far:
 | 5 | [Group Anagram](https://leetcode.com/problems/group-anagrams/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hashmap/5.GroupAnagrams.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 6 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [JavaScript](./hashmap/6.TwoSum.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 7 | [Is Happy](https://leetcode.com/problems/happy-number/description/?submissionId=1290153764) | [JavaScript](./hashmap/7.IsHappy.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+| 8 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [JavaScript](./hashmap/8.ContainsNearByDuplicate.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 
 
 ## About Me
