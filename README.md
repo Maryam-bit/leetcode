@@ -114,6 +114,13 @@ Here's a list of the problems I have solved so far:
 | 10 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [JavaScript](./hashmap/10.LongestConsecutive.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 
+
+## Intervals
+| # | Problem | Solution | Difficulty |
+|---|---------|----------| ---------- |
+| 1 | [Summary Range](https://leetcode.com/problems/summary-ranges/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./intervals/1.SummaryRange.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+
+
 ## About Me
 
 I am a Polyglot Engineer with a passion for problem-solving and continuous learning. In my free time, I enjoy practicing my coding skills on platforms like LeetCode and contributing to open source projects.
