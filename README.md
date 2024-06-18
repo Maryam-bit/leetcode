@@ -111,7 +111,7 @@ Here's a list of the problems I have solved so far:
 | 7 | [Is Happy](https://leetcode.com/problems/happy-number/description/?submissionId=1290153764) | [JavaScript](./hashmap/7.IsHappy.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 8 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/) | [JavaScript](./hashmap/8.ContainsNearByDuplicate.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 9 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./hashmap/9.FindSubstring.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
-| 10 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [JavaScript](./hashmap/10.LongestConsecutive.js) | ![](https://img.shields.io/badge/Hard-cf2738) |
+| 10 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [JavaScript](./hashmap/10.LongestConsecutive.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 
 ## About Me
