@@ -124,6 +124,12 @@ Here's a list of the problems I have solved so far:
 | 4 | [Minimum Number of Arrows to Burst Ballon](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/?envType=study-plan-v2&envId=top-interview-150) | [JavaScript](./intervals/4.FindMinArrowShots.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 
+## Stack
+| # | Problem | Solution | Difficulty |
+|---|---------|----------| ---------- |
+| 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [JavaScript](./stack/1.IsValidParenthesis.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
+
+
 ## About Me
 
 I am a Polyglot Engineer with a passion for problem-solving and continuous learning. In my free time, I enjoy practicing my coding skills on platforms like LeetCode and contributing to open source projects.
