@@ -130,6 +130,7 @@ Here's a list of the problems I have solved so far:
 | 1 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [JavaScript](./stack/1.IsValidParenthesis.js) | ![](https://img.shields.io/badge/Easy-2EA043) |
 | 2 | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [JavaScript](./stack/2.SimplifyPath.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 | 3 | [Min Stack](https://leetcode.com/problems/min-stack/description/) | [JavaScript](./stack/3.MinStack.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
+| 4 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | [JavaScript](./stack/4.EvalRPN.js) | ![](https://img.shields.io/badge/Medium-ffc04a) |
 
 
 ## About Me
